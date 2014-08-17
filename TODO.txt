@@ -1,0 +1,11 @@
+TODO Create magic wand like function to select cells
+TODO Make the avoiding orphans not increase room size, in other words make it not retarded
+TODO Do something to make generator avoid the loc_perimeter of the hallway, so there are more entrances for rooms
+TODO
+TODO
+TODO
+TODO
+TODO
+TODO
+TODO
+TODO
